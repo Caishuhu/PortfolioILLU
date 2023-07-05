@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    
+}
+
+.bar{
+    background-color: black;
+    height:2.5em;
+}
+
+header{
+     
+    text-align: center;
+    display:block;
+    justify-content: center;
+   margin-top:5rem;
+
+}
+
+h1{
+  font-size: 3em;
+}
+
+h1, h2{
+     line-height: 1.5em;
+     color:rgb(139, 139, 139)
+}
+
+nav{
+    margin: 2em;
+}
+
+ul{
+    list-style: none;
+    text-decoration:line-through;
+    text-decoration-color:rgba(169, 169, 169, 0.571);
+    color:rgb(243, 165, 208);
+    line-height: 2.5em;
+}
+
+
